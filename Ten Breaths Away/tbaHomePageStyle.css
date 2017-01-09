@@ -1,0 +1,32 @@
+.navbar {
+	background-color: #4CB69E;
+}
+footer {
+	background-color: #4CB69E;
+	padding-top: 20px;
+}
+#workshops {
+	padding-bottom: 50px;
+}
+#comingSoon {
+	padding-bottom: 80px;
+}
+#contactForm {
+	padding-bottom: 20px
+}
+
+
+/* Photos */
+
+#headshot {
+	height: 300px;
+	margin-top: 40px;
+}
+#broadway {
+	height: 400px;
+	margin: auto;
+}
+#upTrunk {
+	height: 400px;
+	margin: auto;
+}
